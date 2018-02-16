@@ -1,0 +1,515 @@
+---
+layout: entry
+title: "Method Cue"
+order: 9
+---
+
+This cue indicates the types of studies. Structural analyses, such as
+crystallography and NMR, gives us more direct observation for enzyme
+reactions, whereas computational studies only suggest possibilities,
+for which Certainty levels of events are annotated as “Probable”..
+
+- ***(experimental/computational)*** study/studies
+- ***(experimental/computational)*** analysis/analyses simulation(s)
+- ***(computational)*** simulation(s)
+- ***(computational or support/provide)*** model(s)
+
+More concrete keywords are as follows:
+
+The following cues are related to structural analyses including X-ray
+crystallography or NMR study:
+
+- structural analyse
+- structural and biochemical studies
+- structural and functional analyses
+- structures
+- structural basis
+- structural characterization
+- structural comparison
+- structural consequences
+- structural data
+- structural models
+- structural perturbation
+- structural studies
+- structural work
+- structurally
+- structurally characterized
+- structure
+- structure and function analysis
+- Detailed structural analysis
+- Structural analyses
+- Structural analysis
+- Structural basis
+- Structural comparison
+- Structural determinants
+- Structural studies
+- Structural study
+- defined in structure
+- Molecular structure
+- atomic and ultra-high resolution
+- atomic co-ordinates
+- atomic level
+- atomic resolution
+- atomic structure refinement
+
+The following cues are X-ray crystallography:
+
+- structure of crystal
+- Structure at 2.5-A resolution
+- Structure determination
+- These structures
+- Structure
+- This structure
+- X-ray analysis
+- X-ray crystal structure
+- X-ray crystal structures
+- X-ray crystallographic analyses
+- X-ray crystallographic data
+- X-ray crystallographic structure
+- X-ray crystallographic studies
+- X-ray crystallographic study
+- X-ray crystallographic techniques
+- X-ray crystallography
+- X-ray data
+- X-ray diffraction
+- X-ray diffraction data
+- X-ray diffraction techniques
+- X-ray spectroscopic
+- X-ray structure
+- X-ray structure refinement and comparison
+- X-ray structures
+- X-ray work
+- x-ray crystallographic methods
+- x-ray crystallography
+- x-ray crystallography studies
+- x-ray structure
+- Crystal structure
+- Crystal structures
+- Crystallographic
+- Crystallographic analysis
+- Crystallographic evidence
+- Crystallographic structural analysis
+- Crystallographic structure
+- Crystallographic studies
+- crystal
+- crystal and molecular structure
+- crystal form
+- crystal forms
+- crystal habit
+- crystal soaking experiment
+- crystal structure
+- crystal structure data
+- crystal structures
+- crystalline
+- crystalline form
+- crystalline state
+- crystallization
+- crystallize in tetragonal and orthorhombic space groups
+- crystallized
+- crystallizes
+- crystallographic
+- crystallographic agreement factors
+- crystallographic analyses
+- crystallographic analysis
+- crystallographic assignments
+- crystallographic asymmetric unit
+- crystallographic data
+- crystallographic evidence
+- crystallographic refinement
+- crystallographic results
+- crystallographic structure
+- crystallographic studies
+- crystallographic study
+- crystallographically
+- crystallography
+- crystals
+- cocrystal structure
+- cocrystal structures
+- cocrystallization
+- cocrystallized
+- cocrystallizing
+- collecting data from crystals
+- this X-ray structure
+- three-dimensional coordinates
+- three-dimensional structure
+- three-dimensional structures
+- two crystal structures
+- two different monoclinic crystal lattices
+- small crystalline
+- solved structures
+- resolution structure
+- refined crystal structure
+- refined high-resolution crystal structure
+- room-temperature X-ray synchrotron data
+- static x-ray structure
+- High-resolution crystal structures
+- High-resolution structures
+- high-resolution complex structure
+- high-resolution crystal structure
+- high-resolution crystal structures
+- high-resolution structures
+- Proton-Induced x-ray Emission
+- PIXE
+- Refined structure
+- Restrained crystallographic refinement
+- analysis of crystal and molecular structures
+- anisotropic X-ray diffraction
+- anomalous scattering method
+- earlier crystallographic interpretation
+- known crystal structures
+
+The following methods are those by NMR techniques:
+
+- (1)H NMR
+- (1)H-(15)N HSQC
+- (1)H-(15)N HSQC data
+- (1)H-(15)N NMR spectroscopy
+- (13)C NMR
+- (13)C distortionless enhancement by polarization transfer
+- DEPT
+- (15)N-kinetic isotope effects
+- (1H, 15N) heteronuclear multiple-quantum coherence (HMQC) experiments
+- 13C NMR
+- 13C NMR spectra
+- 13C magnetic resonances
+- 13C-NMR study
+- 13C-NMR titrations
+- 19F-NMR
+- 19F-NMR resonance
+- 1D NMR and 2D NOESY analyses
+- 1H NMR
+- 1H NMR monitoring
+- 1H NMR spectrum
+- 31P NMR
+- 31P NMR analyses
+- 31P NMR spectroscopy
+- two-dimensional 31P-31P COSY experiments
+- structural and biochemical NMR studies
+- proton NMR
+- proton NMR studies
+- liquid-state NMR
+- NMR
+- NMR results
+- NMR spectroscopic analyses
+- NMR spectroscopy
+- NMR study
+- one- and two-dimensional proton NMR spectroscopy
+- heteronuclear single quantum correlation
+- HSQC
+
+The following studies are mass spectrometry:
+
+- ESI
+- ESI-MS-MS
+- ESMS
+- Electrospray mass spectrometry
+- tandem MS
+- tandem MS/MS analyses
+- tandem mass spectrometry
+- LC-ESI-tandem MS
+- LC/MS analyses
+- MS
+- MS-MS
+- Mass spectrometric analysis
+- electrospray ionization mass spectrometry
+- electrospray ionization mass spectrum
+- electrospray ionization triple quadrupole mass spectrometry
+- electrospray mass spectrometry
+- ion-spray mass spectrometry
+- mass spectrometric monitoring
+- mass spectrometry
+- daughter-ion spectrum
+
+The following are kinetic analyses including isotopic effects:
+
+- Kinetic
+- Kinetic analyses
+- Kinetic analysis
+- Kinetic characterization
+- Kinetic isotope effect studies
+- KIE
+- KIEs
+- beta-deuterium KIEs
+- alpha-deuterium kinetic isotope effects
+- analyzed kinetically
+- Kinetic studies
+- isotope effect
+- isotope effect data
+- isotope effects
+- isotope exchange
+- isotope ratio mass spectrometer
+- kinetic
+- kinetic analyses
+- kinetic analysis
+- kinetic consequences
+- kinetic data
+- kinetic evaluation
+- kinetic evidence
+- kinetic investigation
+- kinetic isotope effect
+- kinetic isotope effect measurements
+- kinetic isotope effect results
+- kinetic isotope effects
+- kinetic results
+- kinetic studies
+- kinetic study
+- kinetically
+- kinetically observed
+- kinetics
+- kinetics studies
+- This kinetic outcome
+- solvent deuterium isotope effect
+- solvent deuterium isotope effects
+- solvent isotope effect
+- solvent isotope effects
+- solvent kinetic deuterium-isotope effect
+- solvent kinetic isotope effects
+- these enzymatic isotope effects
+- secondary alpha-deuterium KIE
+- secondary beta-deuterium KIEs
+- primary (13)C KIE
+- Isotope effect studies
+- Isotope effects
+- studies kinetic
+- subjected to detailed kinetic investigation
+- techniques kinetic
+- steady-state kinetic analyses
+- steady-state kinetic data
+- steady-state rate analysis
+- Multiple kinetic isotope effects
+- Primary deuterium kinetic isotope effects
+- intrinsic isotope effects
+- inverse beta-secondary isotope effects
+- measured kinetic isotope effects
+- measurement of heavy-atom isotope effects
+- Solvent deuterium kinetic isotope effects
+- Solvent isotope effect studies
+- Steady-state kinetic analysis
+- Steady-state kinetic assays
+- Steady-state kinetic experiments
+- Steady-state kinetics
+- pre-steady-state kinetic analyses
+- 15N-KIE
+- 18(V/K)nonbridge isotope effect
+- Beta-secondary and solvent deuterium kinetic isotope effects
+
+The following is mutagenesis:
+
+- Mutagenesis
+- Mutagenesis experiments
+- Mutagenesis studies
+- Mutational analysis
+- Mutational studies
+- site-directed mutagenesis
+- site-directed mutagenesis studies
+- site-directed mutations
+- Site-directed mutagenesis
+- new mutational data
+- mutagenesis
+- mutagenesis experiments
+- mutagenesis techniques
+- mutation studies
+- mutational analysis
+- experimental mutagenesis results
+- experimental site-directed mutagenesis
+
+- Primary and tertiary structure
+- SIRAS
+- Spectroscopic analyses
+- Steady-state fluorescence titration data
+- Stereochemical analysis
+- absorption changes
+- atomic absorption analysis
+- biochemical characterization
+- biochemical studies
+- Genetic and biochemical studies
+- chemical evidence
+- chemical modification
+- chemical sequencing
+- classical enzymological studies
+- cloning
+- collision-induced fragmentation
+- comparing kinetic results
+- comparison
+- competitive method
+
+The following ones are other spectroscopic analyses:
+
+- difference FTIR spectroscopic analysis
+- difference FTIR spectroscopy
+- difference Fourier map
+- electronic absorption properties
+- faint absorption
+- far UV CD spectra
+- near UV CD spectra
+- circular dichroism
+- circular dichroism spectroscopy
+- CD spectroscopic studies
+- first detailed biochemical study
+- fluorescence
+- fluorescence studies
+- fluorescent
+- UV absorption maxima
+- UV spectroscopic
+- UV--visible
+- Analysis of absorption spectra
+- spectral characterization
+- spectral probes
+- spectrophotometric analysis
+- spectrophotometric assay
+- spectrophotometrically
+- spectroscopic characterization
+- spectroscopic data
+- spectroscopically
+- stereochemical studies
+
+- empirical correlation of delta
+- enzymatically characterized
+- equilibrium perturbation
+- establishes kinetically
+- expression
+- functional studies
+- heavy-atom isotope effects
+- highly sensitive new kinetic assay
+- higher resolution structural information
+- intense absorption
+- liquid chromatography
+- HPLC
+- HPLC analysis
+- mechanistic study
+- minimal perturbation
+- molecular explanation
+- molecular replacement
+- molecular structure and comparison
+- multiple isomorphous replacement
+- multipole refinement
+- one-turnover kinetics
+- pH dependence studies
+- pH studies
+- pH titration study
+- pH-dependent kinetic analysis
+- pH-dependent kinetics
+- pH-dependent rate analysis
+- pH-dependent studies
+- peptic digests
+- potential energy surface
+- provides convenient model system for studies
+- single isomorphous replacement with anomalous scattering method
+- Multipole refinement
+- Analysis of this structure
+- Atomic structure
+- Bronsted analysis
+- Chemical evidence
+- Cryoquenching
+- Difference Fourier comparisons
+- Difference Fourier maps
+- electron paramagnetic resonance spectroscopy
+- EPR studies
+
+- stereoelectronic theory
+- stopped-flow UV/Vis spectrophotometry
+- stopped-flow kinetic measurements
+- stopped-flow studies
+- substrate depletion
+- techniques structural
+- tetragonal crystal form
+- tetrameric quaternary structure
+- thermodynamic results
+- truncation experiments
+- viscosity measurements
+- visible absorbance spectroscopy
+
+The following methods are computational or theoretical ones:
+
+- ab initio calculations
+- ab initio quantum chemical calculations
+- ab initio quantum mechanical modeling
+- Ab initio and density functional calculations
+- approximate valence bond method
+- AVB 
+- Calculations
+- calculated
+- calculated using DelPhi program
+- calculation
+- calculations
+- computational docking
+- computational site-directed mutagenesis
+- computationally docked
+- computer fitting
+- computer graphics
+- computer simulations
+- construction observed structure readily allows
+- conventional molecular dynamics
+- conventional, classical force field
+- allow construction detailed model
+- structural alignment methods
+- structure-based model
+- theoretical calculations
+- theoretical considerations
+- theoretical data
+- theoretical examination
+- theoretical pK(a) calculations
+- theoretical results
+- theoretical work
+- theoretically
+- provides model
+- classical molecular mechanics model
+- quantum chemistry
+- quantum mechanical modeling
+- quantum mechanics
+- quantum-classical molecular dynamics simulations
+- Quantum chemical calculations
+- Quantum mechanics
+- smaller models
+- This model
+- Two simulations
+- docked structures
+- density functional calculations
+- density functional theory
+- MD
+- MD simulation
+- MD simulations
+- MD studies
+- Model building
+- Modeling
+- Modeling studies
+- Modelling
+- Models
+- Molecular dynamic studies
+- Molecular dynamics simulations
+- long-term molecular dynamics simulation
+- Molecular mechanics calculations show
+- Molecular modeling
+- model
+- model building calculations
+- model-building studies
+- modeled
+- modelled
+- modelling
+- modelling studies
+- models
+- molecular dynamics simulation
+- molecular dynamics simulation techniques
+- molecular dynamics simulations
+- molecular dynamics study
+- molecular mechanics
+- molecular mechanics potential
+- molecular mechanics simulation techniques
+- molecular modeling
+- predicted earlier from crystal structures
+- predicted from crystal structures
+- predicted sequence
+- refined model
+- relative large models
+- search model
+- simulates well
+- simulations
+- Electrostatic calculations
+- Poisson-Boltzmann equation
+- polarizable continuum model
+- Simulated
+- Single point energy calculations
+- gas-phase calculations
+- energies calculated
+- in silico
+
